@@ -24,8 +24,8 @@ namespace IchirakuRamenShop
         
         }
 
-        private string _balance;
-        public string Balance
+        private double _balance;
+        public double Balance
         {
 
             get
@@ -54,12 +54,6 @@ namespace IchirakuRamenShop
 
         }
 
-        public Customer(string name, string balance, string hungerBar)
-        {
-            Name = name;
-            Balance = balance;
-            HungerBar = hungerBar;
         
-        }
     }
 }
