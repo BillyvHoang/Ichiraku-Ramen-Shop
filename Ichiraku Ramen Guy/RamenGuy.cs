@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IchirakuRamenShop
 {
-    public class ShopOwner 
+    public class RamenGuy 
     {
         public static void Welcome()
         {

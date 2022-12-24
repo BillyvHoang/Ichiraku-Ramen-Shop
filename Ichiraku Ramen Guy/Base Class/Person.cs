@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ichiraku_Ramen_Guy
+namespace Ichiraku_Ramen_Guy.Base_Class
 {
-    internal class Customer
+    public class Person
     {
+
+
+
+
     }
 }

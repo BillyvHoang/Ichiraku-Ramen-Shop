@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ichiraku_Ramen_Guy
 {
-    internal class Customer
+    public class RamenShop
     {
+        public int ramenInventory { get; set; }
+
+        public  TimeOnly businessHours {get; set;}
+
+
     }
 }

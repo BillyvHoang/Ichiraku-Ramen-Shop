@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ichiraku_Ramen_Guy
 {
-    internal class Customer
+    public class BoundProperties
     {
+
+
+
     }
 }
