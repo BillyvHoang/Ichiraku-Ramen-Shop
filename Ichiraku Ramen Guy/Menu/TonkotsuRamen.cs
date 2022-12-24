@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ichiraku_Ramen_Guy
+namespace Ichiraku_Ramen_Guy.Menu
 {
-    public class BoundProperties
+    public class TonkotsuRamen
     {
+
+
+
 
 
 
